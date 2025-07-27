@@ -17,8 +17,6 @@ I am a passionate and focused CyberSecurity student, building a strong foundatio
 - CTF solving
 
 ## My Badges
-<img width="352" height="352" alt="CEH_9582F3793CA1" src="https://github.com/user-attachments/assets/b2937b5c-eee4-4a2e-86cb-11b34e569d02" />
-<img width="352" height="352" alt="CEH_2E345519D3F7" src="https://github.com/user-attachments/assets/7444cc63-2c1c-49fe-92a4-6c6b10f21f0d" />
-![Our favorite seabird](https://github.com/user-attachments/assets/d74b8e3a-6d06-4b88-b190-b1e39b204498)
-https://academy.hackthebox.com/achievement/badge/6967c21d-0084-11f0-864f-bea50ffe6cb4
-
+<img width="200" height="200" alt="CEH_9582F3793CA1" src="https://github.com/user-attachments/assets/b2937b5c-eee4-4a2e-86cb-11b34e569d02" />
+<img width="200" height="200" alt="CEH_2E345519D3F7" src="https://github.com/user-attachments/assets/7444cc63-2c1c-49fe-92a4-6c6b10f21f0d" />
+<img width="200" height="200" alt="Our favorite seabird" src="https://github.com/user-attachments/assets/d74b8e3a-6d06-4b88-b190-b1e39b204498" />
