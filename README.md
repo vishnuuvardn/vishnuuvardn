@@ -15,10 +15,9 @@ Languages:
 ![Bash](https://img.shields.io/badge/Bash-1e1e1e?logo=gnubash&logoColor=white)
 
 
-
 Operating Systems:
 
-<img src="https://i.pinimg.com/1200x/af/93/d0/af93d0e61c2f5272b56b7a616295786b.jpg" width="20" style="vertical-align:middle"/>
+![Windows_Logo](https://github.com/user-attachments/assets/f9be13ff-7596-477c-aa16-a9d7a3d07055)
 ![Windows](https://img.shields.io/badge/Windows-1e1e1e?logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1e1e1e?logo=kalilinux&logoColor=skyblue)
 ![Linux](https://img.shields.io/badge/Linux-1e1e1e?logo=linux&logoColor=white)
