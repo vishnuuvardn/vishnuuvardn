@@ -1,13 +1,15 @@
 ## Hi there! 👋
 
-Welcome to My Github Profile.
-I am a passionate and focused CyberSecurity student, building a strong foundation in ethical hacking, network security, and system exploitation. I enjoy learning by doing and aim to grow into a skilled penetration tester and security researcher.
+I am Vishnu Vardha! A passionate and focused CyberSecurity student, building a strong foundation in ethical hacking, network security, and system exploitation. I enjoy learning by doing and aim to grow into a skilled penetration tester and security researcher.
 
 ## Certifications
-- Certified Ethical Hacker Certificate
-  issued by: EC-Council
+- <p dir="auto">
+  <strong>Certified Ethical Hacker Certificate</strong>
+  <br>
+  <em>issued by: EC-Council </em>
+  <br>
   <a href="https://drive.google.com/file/d/1kxxEByn6HF1QXGv0kXeOJXYfZIbv2TeS/view?usp=sharing" target="_blank"> Veiw Cert </a>
-
+</p>
 
 - More certificates will be added soon
 
