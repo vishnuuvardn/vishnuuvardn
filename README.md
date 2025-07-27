@@ -1,4 +1,4 @@
-## Hello, I'm Vishnu Vardhan!
+## Hi there! 👋
 
 Welcome to My Github Profile.
 I am a passionate and focused CyberSecurity student, building a strong foundation in ethical hacking, network security, and system exploitation. I enjoy learning by doing and aim to grow into a skilled penetration tester and security researcher.
@@ -8,7 +8,10 @@ I am a passionate and focused CyberSecurity student, building a strong foundatio
 
 - More certificates will be added soon
 
-## Tools and Skills
+## Skills
+LANGUAGES:
+![Python](https://img.shields.io/badge/Python-black?logo=python)
+
 - Linux
 - Burp Suite
 - Nmap, Metasploit, Wireshark
