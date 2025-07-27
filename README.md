@@ -8,7 +8,7 @@ I am Vishnu Vardha! A passionate and focused CyberSecurity student, building a s
   <br>
   <em>issued by: EC-Council </em>
   <br>
-  <a href="https://drive.google.com/file/d/1kxxEByn6HF1QXGv0kXeOJXYfZIbv2TeS/view?usp=sharing" target="_blank"> Veiw Cert </a>
+  <a href="https://drive.google.com/file/d/1kxxEByn6HF1QXGv0kXeOJXYfZIbv2TeS/view?usp=sharing" target="_blank"> Veiw Certificate </a>
 </p>
 
 - More certificates will be added soon
@@ -20,20 +20,21 @@ I am Vishnu Vardha! A passionate and focused CyberSecurity student, building a s
   ![Python](https://img.shields.io/badge/Python-1e1e1e?logo=python)
   ![Bash](https://img.shields.io/badge/Bash-1e1e1e?logo=gnubash&logoColor=white)
 </p>
-Operating Systems:
-
+<p>
+<strong>Operating Systems:</strong>
 <img src="https://github.com/user-attachments/assets/144b0931-00df-4919-8131-1c84887e501c" width=20 style="vertical-align:middle"/> &nbsp;
 ![windows](https://img.shields.io/badge/Windows-1e1e1e?logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1e1e1e?logo=kalilinux&logoColor=skyblue)
 ![Linux](https://img.shields.io/badge/Linux-1e1e1e?logo=linux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-1e1e1e?logo=android&logoColor=white)
-
-Tools:
+</p>
+<p>
+<strong>Tools:</strong>
 
 ![Nmap](https://img.shields.io/badge/%F0%9F%93%A1_Nmap-1e1e1e?)
 ![Metasploit](https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_Metasploit_Framework-1e1e1e?)
 ![Wireshark](https://img.shields.io/badge/%F0%9F%A6%88_Wireshark-1e1e1e?)
-
+</p>
 ## My Projects
 - <a href="https://github.com/vishnuuvardn/WinWifiDump" target="_blank">WinWifiDump</a>
 
