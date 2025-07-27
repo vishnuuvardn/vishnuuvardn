@@ -5,9 +5,7 @@ I am a passionate and focused CyberSecurity student, building a strong foundatio
 
 ## Certifications
 - Certified Ethical Hacker Certificate
-
   issued by: EC-Council
-
   <a href="https://drive.google.com/file/d/1kxxEByn6HF1QXGv0kXeOJXYfZIbv2TeS/view?usp=sharing" target="_blank"> Veiw Cert </a>
 
 
