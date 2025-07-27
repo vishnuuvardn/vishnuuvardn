@@ -11,7 +11,7 @@ I am a passionate and focused CyberSecurity student, building a strong foundatio
 ## Skills
 Languages:
 
-![Python](https://img.shields.io/badge/Python-black?logo=python)
+![Python](https://img.shields.io/badge/Python-1e1e1e?logo=python)
 ![Bash](https://img.shields.io/badge/Bash-1e1e1e?logo=gnubash&logoColor=white)
 
 
@@ -19,6 +19,7 @@ Languages:
 Operating Systems:
 
 <img src="https://i.pinimg.com/1200x/af/93/d0/af93d0e61c2f5272b56b7a616295786b.jpg" width="20" style="vertical-align:middle"/> 
+
 ![Windows](https://img.shields.io/badge/Windows-1e1e1e?logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1e1e1e?logo=kalilinux&logoColor=skyblue)
 ![Linux](https://img.shields.io/badge/Linux-1e1e1e?logo=linux&logoColor=white)
