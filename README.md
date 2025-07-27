@@ -12,12 +12,22 @@ I am a passionate and focused CyberSecurity student, building a strong foundatio
 Languages:
 
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
+![Bash](https://img.shields.io/badge/Bash-Script-4EAA25?logo=gnubash&logoColor=white)
 
-- Linux
-- Burp Suite
-- Nmap, Metasploit, Wireshark
-- Learning Python
-- CTF solving
+
+
+Operating Systems:
+
+![Windows](https://img.shields.io/badge/Windows_OS-1e1e1e?logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1e1e1e?logo=kalilinux&logoColor=skyblue)
+![Linux](https://img.shields.io/badge/Linux_OS-1e1e1e?logo=linux&logoColor=white)
+![Android](https://img.shields.io/badge/Android-1e1e1e?logo=android&logoColor=white)
+
+Tools:
+
+![Nmap](https://img.shields.io/badge/%F0%9F%93%A1_Nmap-1e1e1e?)
+![Metasploit](https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_Metasploit_Framework-1e1e2e?)
+![Wireshark](https://img.shields.io/badge/%F0%9F%A6%88_Wireshark-1e1e1e?)
 
 ## My Projects
 - <a href="https://github.com/vishnuuvardn/WinWifiDump" target="_blank">WinWifiDump</a>
@@ -26,3 +36,6 @@ Languages:
 <img width="200" height="200" alt="CEH_9582F3793CA1" src="https://github.com/user-attachments/assets/b2937b5c-eee4-4a2e-86cb-11b34e569d02" />
 <img width="200" height="200" alt="CEH_2E345519D3F7" src="https://github.com/user-attachments/assets/7444cc63-2c1c-49fe-92a4-6c6b10f21f0d" />
 <img width="200" height="200" alt="Our favorite seabird" src="https://github.com/user-attachments/assets/d74b8e3a-6d06-4b88-b190-b1e39b204498" />
+
+## Contact Me
+- 'vishnuvardhan9376@gmail.com'
