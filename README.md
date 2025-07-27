@@ -8,7 +8,8 @@ I am Vishnu Vardha! A passionate and focused CyberSecurity student, building a s
   <br>
   <em>issued by: EC-Council </em>
   <br>
-  <a href="https://drive.google.com/file/d/1kxxEByn6HF1QXGv0kXeOJXYfZIbv2TeS/view?usp=sharing" target="_blank"> Veiw Certificate </a>
+  <a href="https://drive.google.com/file/d/1kxxEByn6HF1QXGv0kXeOJXYfZIbv2TeS/view?usp=sharing"
+    target="_blank"> Veiw Certificate </a>
 </p>
 
 - More certificates will be added soon
