@@ -14,12 +14,11 @@ I am Vishnu Vardha! A passionate and focused CyberSecurity student, building a s
 - More certificates will be added soon
 
 ## Skills
-Languages:
-
-![Python](https://img.shields.io/badge/Python-1e1e1e?logo=python)
-![Bash](https://img.shields.io/badge/Bash-1e1e1e?logo=gnubash&logoColor=white)
-
-
+<p>
+<strong>Languages:</strong>
+"![Python](https://img.shields.io/badge/Python-1e1e1e?logo=python)"
+"![Bash](https://img.shields.io/badge/Bash-1e1e1e?logo=gnubash&logoColor=white)"
+</p>
 Operating Systems:
 
 <img src="https://github.com/user-attachments/assets/144b0931-00df-4919-8131-1c84887e501c" width=20 style="vertical-align:middle"/> &nbsp;
