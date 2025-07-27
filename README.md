@@ -9,7 +9,8 @@ I am a passionate and focused CyberSecurity student, building a strong foundatio
 - More certificates will be added soon
 
 ## Skills
-LANGUAGES:
+Languages:
+
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
 
 - Linux
