@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am Vishnu Vardha! A passionate and focused CyberSecurity student, building a strong foundation in ethical hacking, network security, and system exploitation. I enjoy learning by doing and aim to grow into a skilled penetration tester and security researcher.
+<strong>I am Vishnu Vardhan!</strong> A passionate and focused CyberSecurity student, building a strong foundation in ethical hacking, network security, and system exploitation. I enjoy learning by doing and aim to grow into a skilled penetration tester and security researcher.
 
 ## Certifications
 - <p dir="auto">
