@@ -8,14 +8,15 @@ I am a passionate and focused CyberSecurity student, building a strong foundatio
 
 - More certificates will be added soon
 
-
 ## Tools and Skills
-- <a href="https://github.com/vishnuuvardn/WinWifiDump" target="_blank">WinWifiDump</a>
 - Linux
 - Burp Suite
 - Nmap, Metasploit, Wireshark
 - Learning Python
 - CTF solving
+
+## My Projects
+- <a href="https://github.com/vishnuuvardn/WinWifiDump" target="_blank">WinWifiDump</a>
 
 ## My Badges
 <img width="200" height="200" alt="CEH_9582F3793CA1" src="https://github.com/user-attachments/assets/b2937b5c-eee4-4a2e-86cb-11b34e569d02" />
