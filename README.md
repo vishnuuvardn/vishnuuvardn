@@ -17,7 +17,7 @@ Languages:
 
 Operating Systems:
 
-![Windows_Logo](https://github.com/user-attachments/assets/f9be13ff-7596-477c-aa16-a9d7a3d07055)
+<img src="https://shorturl.at/wPWuv" width=20 style="vertical-align:middle"/>
 ![Windows](https://img.shields.io/badge/Windows-1e1e1e?logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1e1e1e?logo=kalilinux&logoColor=skyblue)
 ![Linux](https://img.shields.io/badge/Linux-1e1e1e?logo=linux&logoColor=white)
