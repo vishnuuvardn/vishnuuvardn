@@ -17,7 +17,9 @@ Languages:
 
 Operating Systems:
 
-[<img src="https://github.com/user-attachments/assets/144b0931-00df-4919-8131-1c84887e501c" width=20 style="vertical-align:middle"/>](https://img.shields.io/badge/Windows-1e1e1e?logo=windows&logoColor=white)
+<img src="https://github.com/user-attachments/assets/144b0931-00df-4919-8131-1c84887e501c" width=20 style="vertical-align:middle"/>
+&nbsp;
+![windows](https://img.shields.io/badge/Windows-1e1e1e?logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1e1e1e?logo=kalilinux&logoColor=skyblue)
 ![Linux](https://img.shields.io/badge/Linux-1e1e1e?logo=linux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-1e1e1e?logo=android&logoColor=white)
@@ -25,7 +27,7 @@ Operating Systems:
 Tools:
 
 ![Nmap](https://img.shields.io/badge/%F0%9F%93%A1_Nmap-1e1e1e?)
-![Metasploit](https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_Metasploit_Framework-1e1e2e?)
+![Metasploit](https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_Metasploit_Framework-1e1e1e?)
 ![Wireshark](https://img.shields.io/badge/%F0%9F%A6%88_Wireshark-1e1e1e?)
 
 ## My Projects
