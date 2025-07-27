@@ -12,15 +12,15 @@ I am a passionate and focused CyberSecurity student, building a strong foundatio
 Languages:
 
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
-![Bash](https://img.shields.io/badge/Bash-Script-4EAA25?logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-1e1e1e?logo=gnubash&logoColor=white)
 
 
 
 Operating Systems:
-
-![Windows](https://img.shields.io/badge/Windows_OS-1e1e1e?logo=windows&logoColor=white)
+<img src="https://commons.wikimedia.org/wiki/File:Windows_logo_-_2012.svg" width="20" style="vertical-align:middle"/> 
+![Windows](https://img.shields.io/badge/Windows-1e1e1e?logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1e1e1e?logo=kalilinux&logoColor=skyblue)
-![Linux](https://img.shields.io/badge/Linux_OS-1e1e1e?logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1e1e1e?logo=linux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-1e1e1e?logo=android&logoColor=white)
 
 Tools:
