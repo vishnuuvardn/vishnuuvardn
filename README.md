@@ -4,7 +4,7 @@ Welcome to My Github Profile.
 I am a passionate and focused CyberSecurity student, building a strong foundation in ethical hacking, network security, and system exploitation. I enjoy learning by doing and aim to grow into a skilled penetration tester and security researcher.
 
 ## My Certificates
-<a href="https://drive.google.com/file/d/1kxxEByn6HF1QXGv0kXeOJXYfZIbv2TeS/view?usp=sharing" target="_blank">ECC-CEH-CERT</a>
+- <a href="https://drive.google.com/file/d/1kxxEByn6HF1QXGv0kXeOJXYfZIbv2TeS/view?usp=sharing" target="_blank">ECC-CEH-CERTIFICATE</a>
 
 - More certificates will be added soon
 
