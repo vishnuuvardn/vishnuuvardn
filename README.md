@@ -5,7 +5,9 @@ I am a passionate and focused CyberSecurity student, building a strong foundatio
 
 ## My Certificates
 <img width="675" height="470" alt="Screenshot 2025-07-27 082935" src="https://github.com/user-attachments/assets/d94e8398-dd92-47b5-b145-9b2dc059ded7" />
+
 <a href="https://drive.google.com/file/d/1kxxEByn6HF1QXGv0kXeOJXYfZIbv2TeS/view?usp=sharing" target="_blank">CLECK ME TO DOWNLOAD CERT</a>
+
 - More certificates will be added soon
 
 
