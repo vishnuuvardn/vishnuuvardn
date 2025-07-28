@@ -45,7 +45,8 @@
 <img width="100" height="100" alt="CEH_9582F3793CA1" src="https://github.com/user-attachments/assets/b2937b5c-eee4-4a2e-86cb-11b34e569d02" />
 <img width="100" height="100" alt="CEH_2E345519D3F7" src="https://github.com/user-attachments/assets/7444cc63-2c1c-49fe-92a4-6c6b10f21f0d" />
 <img width="100" height="100" alt="Our favorite seabird" src="https://github.com/user-attachments/assets/d74b8e3a-6d06-4b88-b190-b1e39b204498" />
-<img width="200" height="200" alt="Windows Fundamentals" src="https://github.com/user-attachments/assets/56d70a04-6770-4f49-80d1-68e21bfba933">
+<img width="100" height="100" alt="Windows Fundamentals" src="https://github.com/user-attachments/assets/826c384f-bf2b-4ba4-b196-50f70919a46c">
+
 </p>
 
 ## Contact Me
