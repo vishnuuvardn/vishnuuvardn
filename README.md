@@ -41,9 +41,12 @@
 - <a href="https://github.com/vishnuuvardn/WinWifiDump" target="_blank">WinWifiDump</a>
 
 ## Badges
+<p>
 <img width="100" height="100" alt="CEH_9582F3793CA1" src="https://github.com/user-attachments/assets/b2937b5c-eee4-4a2e-86cb-11b34e569d02" />
 <img width="100" height="100" alt="CEH_2E345519D3F7" src="https://github.com/user-attachments/assets/7444cc63-2c1c-49fe-92a4-6c6b10f21f0d" />
 <img width="100" height="100" alt="Our favorite seabird" src="https://github.com/user-attachments/assets/d74b8e3a-6d06-4b88-b190-b1e39b204498" />
+<img width="100" height="100" alt="Windows Fundamentals" src="https://academy.hackthebox.com/achievement/1680469/49">
+</p>
 
 ## Contact Me
 - `vishnuvardhan9376@gmail.com`
