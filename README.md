@@ -20,6 +20,7 @@
   
   ![Python](https://img.shields.io/badge/Python-1e1e1e?logo=python)
   ![Bash](https://img.shields.io/badge/Bash-1e1e1e?logo=gnubash&logoColor=white)
+  ![C_++](https://img.shields.io/badge/C++-1e1e1e?logo=C++)
 </p>
 <p>
 <strong>Operating Systems:</strong>
